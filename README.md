@@ -4,8 +4,10 @@
 ![Groq](https://img.shields.io/badge/Groq-API-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-![Discord Loading Animation](https://cdn.dribbble.com/users/123456/screenshots/16641455/discord_loading_animation.gif)
----
+<div align="center"; margin-bottom="60";>
+  <img style="max-width:60/%;height:auto;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16641455-Discord-Loading-Animation&psig=AOvVaw0jSkzPkjfq3OLagpWZWhA9&ust=1726137469077000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCHrajZuogDFQAAAAAdAAAAABAE"  />
+</div>
+
 ## 📜 Description
 
 Welcome to the **Discord Trivia Bot**! This bot brings fun and engaging trivia questions to your Discord server, utilizing the powerful Groq API. It’s a great way to challenge your friends and add some excitement to your server!
