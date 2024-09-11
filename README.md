@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom:30px;">
-  <img style="width:800px; height:280px;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif" alt="Discord Loading Animation" />
+  <img style="width:1000px; height:350px;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif" alt="Discord Loading Animation" />
 </div>
 
 # <div><centre>**Discord Trivia Bot**</centre></div>
