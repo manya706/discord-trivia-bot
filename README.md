@@ -2,7 +2,9 @@
   <img style="width:1000px; height:350px;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif" alt="Discord Loading Animation" />
 </div>
 <div align="center">
-<h1 style="font-family: 'Courier New'; color: #eb34a4;">Discord Trivia Bot</h1>
+![Discord Trivia Bot](https://github.com/user-attachments/assets/7399e808-7875-4c57-a397-cb7950aaeebb)
+
+
 </div>
 
 ![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-green)
