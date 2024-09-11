@@ -1,12 +1,13 @@
+<div align="center" style="margin-bottom:30px;">
+  <img style="max-width:100%; height:auto;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif" alt="Discord Loading Animation" />
+</div>
 # <div><centre>**Discord Trivia Bot**</centre></div>
 ![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-green)
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14.0.0-blue)
 ![Groq](https://img.shields.io/badge/Groq-API-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-<div align="center"; margin-bottom="30"; >
-  <img style="max-width:100/%;height:30;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif"  />
-</div>
+
 
 ## 📜 Description
 
