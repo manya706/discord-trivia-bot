@@ -4,6 +4,7 @@
 <div>
 <h1 style="font-family: 'Courier New', Courier, monospace; color: #ff69b4;">Discord Trivia Bot</h1>
 </div>
+
 ![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-green)
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14.0.0-blue)
 ![Groq](https://img.shields.io/badge/Groq-API-orange)
