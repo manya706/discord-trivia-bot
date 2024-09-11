@@ -1,4 +1,4 @@
-# <centre>**Discord Trivia Bot**</centre>
+# <div><centre>**Discord Trivia Bot**</centre></div>
 ![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-green)
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14.0.0-blue)
 ![Groq](https://img.shields.io/badge/Groq-API-orange)
