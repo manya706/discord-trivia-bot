@@ -21,7 +21,7 @@ Welcome to the **Discord Trivia Bot**! This bot brings fun and engaging trivia q
 
 ## 🖥️ Outputs
 <div align="center" style="margin-bottom:30px;">
-  <img style="width:1000px; height:350px;" src="(https://github.com/user-attachments/assets/82927cbf-569e-43fe-bc3a-c4360990a576" />
+  [!image](https://github.com/user-attachments/assets/82927cbf-569e-43fe-bc3a-c4360990a576
 </div>
 
 
