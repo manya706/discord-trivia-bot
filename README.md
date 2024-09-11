@@ -1,8 +1,8 @@
 <div align="center" style="margin-bottom:30px;">
-  <img style="width:1000px; height:350px;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif" alt="Discord Loading Animation" />
+  <img style="width:1000px; height:350px;" src="https://github.com/manya706/discord-trivia-bot/blob/main/Discord%20Trivia%20Bot.png" alt="Discord Loading Animation" />
 </div>
 
-![image](https://github.com/manya706/discord-trivia-bot/blob/main/Discord%20Trivia%20Bot.png)
+
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-green)
@@ -85,5 +85,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Enjoy your trivia bot and have fun! 🎉
 
+<div align="center" style="margin-bottom:30px;">
+  <img style="width:1000px; height:350px;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif" alt="Discord Loading Animation" />
+</div>
 
 
