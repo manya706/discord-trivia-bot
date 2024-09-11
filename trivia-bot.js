@@ -10,9 +10,10 @@ const categories = ['science', 'history', 'sports', 'technology', 'geography'];
 const triviaQuestions = {}; // Store the current trivia question and answer
 
 client.on(Events.MessageCreate, async message => {
-    if (message.author.bot) return;
+    // if (message.author.bot) return;
 
     if (message.content.startsWith('!trivia')) {
+        console.log("Question triggered")
         const args = message.content.split(' ').slice(1);
         const category = args[0]?.toLowerCase();
 
@@ -37,6 +38,7 @@ client.on(Events.MessageCreate, async message => {
             await message.channel.send('Sorry, I could not fetch a trivia question at this time.');
         }
     } else if (message.content.startsWith('!answer')) {
+        console.log("answer triggered")
         const userAnswer = message.content.split(' ').slice(1).join(' ');
 
         // Check if the user has a trivia question stored
@@ -58,15 +60,24 @@ client.on(Events.MessageCreate, async message => {
 });
 
 async function getGroqChatCompletion(category) {
-    return groq.chat.completions.create({
-        messages: [
-            { role: "system", content: "You are a helpful assistant. You reply with very short answers." },
-            { role: "user", content: "Provide a trivia question and its correct answer in the category of ${category}. Format it as: Question: [question]. Answer: [answer]." }
-        ],
-        model: "llama3-8b-8192",
-        max_tokens: 100,
-        temperature: 1.2
-    });
+    try {
+        const response = await groq.chat.completions.create({
+            messages: [
+                { role: "system", content: "You are a trivia generator. You generate trivia questions and provide their correct answers separately." },
+                { role: "user", content: `Provide a trivia question and its correct answer from the ${category} category. Format it as 'Question: [your question] Answer: [your answer]' without any extra text.` }
+            ],
+            model: "llama3-8b-8192",
+            max_tokens: 100,
+            temperature: 1.2
+        });
+        console.log('API Response:', response);
+        return response;
+    } catch (error) {
+        console.error('Error in API request:', error);
+        throw error;
+    }
 }
+
+
 
 client.login(process.env.TOKEN);
