@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom:30px;">
-  <img style="max-width:100%; height:auto;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif" alt="Discord Loading Animation" />
+  <img style="max-width:100/%; height:40px;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif" alt="Discord Loading Animation" />
 </div>
 
 # <div><centre>**Discord Trivia Bot**</centre></div>
@@ -37,7 +37,6 @@ Welcome to the **Discord Trivia Bot**! This bot brings fun and engaging trivia q
 2. Install Dependencies
 
   ```bash
-  Copy code
   npm install
   Configure Environment Variables
   ```
@@ -67,7 +66,8 @@ Close the Terminal
 ###📝 Usage
 Get a Trivia Question: Type !trivia in any text channel where the bot has access. The bot will send a trivia question in response.
 Answering: Reply with your answer to see if it’s correct!
-🤝 Contributing
+
+###🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests with improvements or bug fixes. Please adhere to coding standards and provide clear commit messages.
 
 ---
