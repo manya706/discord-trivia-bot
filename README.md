@@ -18,6 +18,8 @@ Welcome to the **Discord Trivia Bot**! This bot brings fun and engaging trivia q
 
 - **Trivia Questions**: Fetch trivia questions dynamically using the Groq API.
 - **Answer Validation**: Check if users’ answers to trivia questions are correct.
+  ![image](https://github.com/user-attachments/assets/82927cbf-569e-43fe-bc3a-c4360990a576)
+
 
 ## 🛠️ Setup Instructions
 
