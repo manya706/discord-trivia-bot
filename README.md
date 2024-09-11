@@ -1,11 +1,11 @@
-# Discord Trivia Bot
+# <center>**Discord Trivia Bot**</center>
 ![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-green)
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14.0.0-blue)
 ![Groq](https://img.shields.io/badge/Groq-API-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 <div align="center"; margin-bottom="60";>
-  <img style="max-width:60/%;height:auto;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord.gif"  />
+  <img style="max-width:60/%;height:auto;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif"  />
 </div>
 
 ## 📜 Description
