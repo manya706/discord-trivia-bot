@@ -2,8 +2,7 @@
   <img style="width:1000px; height:350px;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif" alt="Discord Loading Animation" />
 </div>
 <div align="center">
-![Discord Trivia Bot](https://github.com/manya706/discord-trivia-bot/blob/main/Discord%20Trivia%20Bot.png)
-
+![image](https://github.com/manya706/discord-trivia-bot/blob/main/Discord%20Trivia%20Bot.png)
 
 </div>
 
