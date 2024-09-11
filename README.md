@@ -32,7 +32,7 @@ Welcome to the **Discord Trivia Bot**! This bot brings fun and engaging trivia q
 1. **Clone the Repository**
 
  ```bash
- git clone https://github.com/yourusername/discord-trivia-bot.git
+ git clone https://github.com/manya706/discord-trivia-bot.git
  cd discord-trivia-bot
 ```
 2. Install Dependencies
