@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 <div align="center"; margin-bottom="60";>
-  <img style="max-width:60/%;height:auto;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F642888915552292464%2F&psig=AOvVaw0jSkzPkjfq3OLagpWZWhA9&ust=1726137469077000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCHrajZuogDFQAAAAAdAAAAABAR"  />
+  <img style="max-width:60/%;height:auto;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord.gif"  />
 </div>
 
 ## 📜 Description
