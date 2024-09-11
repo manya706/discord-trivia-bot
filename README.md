@@ -71,7 +71,6 @@ Answering: Reply with your answer to see if it’s correct!
 ### 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests with improvements or bug fixes. Please adhere to coding standards and provide clear commit messages.
 
----
 
 ### 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
