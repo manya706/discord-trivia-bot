@@ -4,8 +4,8 @@
 ![Groq](https://img.shields.io/badge/Groq-API-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-<div align="center"; margin-bottom="60";>
-  <img style="max-width:60/%;height:auto;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif"  />
+<div align="center"; margin-bottom="30"; >
+  <img style="max-width:auto/%;height:50;" src="https://github.com/manya706/discord-trivia-bot/blob/main/discord2.gif"  />
 </div>
 
 ## 📜 Description
